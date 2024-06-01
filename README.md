@@ -2,6 +2,10 @@
 
 Welcome to the "Guess My Number" game! This is a simple, interactive number guessing game where you can test your guessing skills. Try to guess the secret number between 1 and 20, and see if you can beat your highscore!
 
+## Game Demonstration
+
+![Guess My Number Game GIF](./guess-my-number.gif)
+
 ## Table of Contents
 
 - [How to Play](#how-to-play)
@@ -34,7 +38,5 @@ Welcome to the "Guess My Number" game! This is a simple, interactive number gues
 ## Play Online
 
 You can play the game online at [guessmynumber.ozkanceyhan.dev](http://guessmynumber.ozkanceyhan.dev).
-
-## Game Video
 
 Enjoy the game and happy guessing!
