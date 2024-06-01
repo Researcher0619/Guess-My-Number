@@ -1,0 +1,40 @@
+# Guess My Number Game
+
+Welcome to the "Guess My Number" game! This is a simple, interactive number guessing game where you can test your guessing skills. Try to guess the secret number between 1 and 20, and see if you can beat your highscore!
+
+## Table of Contents
+
+- [How to Play](#how-to-play)
+- [Features](#features)
+- [Technologies Used](#technologies-used)
+- [Setup](#setup)
+- [Game Screenshot](#game-screenshot)
+
+## How to Play
+
+1. Open the game in your web browser.
+2. Enter your guess in the input field and click the "Check!" button.
+3. The game will provide feedback on whether your guess is too high, too low, or correct.
+4. If you guess correctly, the game will display a congratulatory message, and you can play again by clicking the "Again!" button.
+5. Try to achieve the highest score possible before running out of guesses!
+
+## Features
+
+- Randomly generated secret number between 1 and 20.
+- Interactive feedback on guesses.
+- Score tracking and highscore saving.
+- Reset functionality to start a new game without refreshing the page.
+
+## Technologies Used
+
+- HTML
+- CSS
+- JavaScript
+
+## Setup
+
+1. Clone the repository to your local machine.
+
+   ```bash
+   git clone https://github.com/Researcher0619/Guess-My-Number.git
+   ```
