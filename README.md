@@ -35,8 +35,6 @@ Welcome to the "Guess My Number" game! This is a simple, interactive number gues
 
 You can play the game online at [guessmynumber.ozkanceyhan.dev](http://guessmynumber.ozkanceyhan.dev).
 
-## Game Screenshot
-
-![Guess My Number Game](screenshot.png)
+## Game Video
 
 Enjoy the game and happy guessing!
