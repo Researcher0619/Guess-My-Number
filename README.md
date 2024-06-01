@@ -7,7 +7,7 @@ Welcome to the "Guess My Number" game! This is a simple, interactive number gues
 - [How to Play](#how-to-play)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
-- [Setup](#setup)
+- [Play Online](#play-online)
 - [Game Screenshot](#game-screenshot)
 
 ## How to Play
@@ -31,10 +31,12 @@ Welcome to the "Guess My Number" game! This is a simple, interactive number gues
 - CSS
 - JavaScript
 
-## Setup
+## Play Online
 
-1. Clone the repository to your local machine.
+You can play the game online at [guessmynumber.ozkanceyhan.dev](http://guessmynumber.ozkanceyhan.dev).
 
-   ```bash
-   git clone https://github.com/Researcher0619/Guess-My-Number.git
-   ```
+## Game Screenshot
+
+![Guess My Number Game](screenshot.png)
+
+Enjoy the game and happy guessing!
